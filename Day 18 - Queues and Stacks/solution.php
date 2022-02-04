@@ -39,8 +39,8 @@ $isPalindrome = true;
 
 // push/enqueue all the characters of string s to stack
 for ($i = 0; $i < $len; $i++) {
-    $obj->pushCharacter($s{$i});
-    $obj->enqueueCharacter($s{$i});
+    // $obj->pushCharacter($s{$i});
+    // $obj->enqueueCharacter($s{$i});
 }
 
 /*
